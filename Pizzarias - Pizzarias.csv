@@ -1,0 +1,236 @@
+id,nome,sabores,tamanho,preço
+1,Veneza Pizzaria,Calabresa,P,18.99
+2,Veneza Pizzaria,Calabresa,M,24.99
+3,Veneza Pizzaria,Calabresa,G,28.99
+4,Veneza Pizzaria,Frango Catupiry,P,18.99
+5,Veneza Pizzaria,Frango Catupiry,M,24.99
+6,Veneza Pizzaria,Frango Catupiry,G,28.99
+7,Veneza Pizzaria,Quatro Queijos,P,18.99
+8,Veneza Pizzaria,Quatro Queijos,M,24.99
+9,Veneza Pizzaria,Quatro Queijos,G,28.99
+10,Veneza Pizzaria,Portuguesa,P,18.99
+11,Veneza Pizzaria,Portuguesa,M,24.99
+12,Veneza Pizzaria,Portuguesa,G,28.99
+13,Veneza Pizzaria,Camarão Cheddar,P,23.99
+14,Veneza Pizzaria,Camarão Cheddar,M,34.99
+15,Veneza Pizzaria,Camarão Cheddar,G,38.99
+16,Veneza Pizzaria,Chocolate,P,18.99
+17,Veneza Pizzaria,Chocolate,M,24.99
+18,Veneza Pizzaria,Chocolate,G,26.99
+19,Veneza Pizzaria,Mussarela,P,18.99
+20,Veneza Pizzaria,Mussarela,M,24.99
+21,Veneza Pizzaria,Mussarela,G,28.99
+22,Veneza Pizzaria,Toscana,P,18.99
+23,Veneza Pizzaria,Toscana,M,24.99
+24,Veneza Pizzaria,Toscana,G,28.99
+25,Veneza Pizzaria,Nordestina,P,18.99
+26,Veneza Pizzaria,Nordestina,M,24.99
+27,Veneza Pizzaria,Nordestina,G,28.99
+28,Veneza Pizzaria,Presunto,P,18.99
+29,Veneza Pizzaria,Presunto,M,24.99
+30,Veneza Pizzaria,Presunto,G,26.99
+31,Veneza Pizzaria,Cartola,P,18.99
+32,Veneza Pizzaria,Cartola,M,24.99
+33,Veneza Pizzaria,Cartola,G,28.99
+34,Veneza Pizzaria,Romeu e Julieta,P,18.99
+35,Veneza Pizzaria,Romeu e Julieta,M,24.99
+36,Veneza Pizzaria,Romeu e Julieta,G,26.99
+37,Veneza Pizzaria,Atum,P,18.99
+38,Veneza Pizzaria,Atum,M,24.99
+39,Veneza Pizzaria,Atum,G,28.99
+40,Veneza Pizzaria,Frango,P,18.99
+41,Veneza Pizzaria,Frango,M,24.99
+42,Veneza Pizzaria,Frango,G,28.99
+43,Veneza Pizzaria,Palmito,P,18.99
+44,Veneza Pizzaria,Palmito,M,24.99
+45,Veneza Pizzaria,Palmito,G,26.99
+46,Pizza Fina,Calabresa,P,27.90
+47,Pizza Fina,Calabresa,M,33.90
+48,Pizza Fina,Calabresa,G,37.90
+49,Pizza Fina,Frango Catupiry,P,27.90
+50,Pizza Fina,Frango Catupiry,M,33.90
+51,Pizza Fina,Frango Catupiry,G,37.50
+52,Pizza Fina,Quatro Queijos,P,27.90
+53,Pizza Fina,Quatro Queijos,M,33.90
+54,Pizza Fina,Quatro Queijos,G,37.50
+55,Pizza Fina,Portuguesa,P,27.90
+56,Pizza Fina,Portuguesa,M,33.90
+57,Pizza Fina,Portuguesa,G,37.50
+58,Pizza Fina,Chocolate,P,27.90
+59,Pizza Fina,Chocolate,M,33.90
+60,Pizza Fina,Chocolate,G,37.50
+61,Pizza Fina,Mussarela,P,27.90
+62,Pizza Fina,Mussarela,M,33.90
+63,Pizza Fina,Mussarela,G,37.50
+64,Pizza Fina,Presunto,P,27.90
+65,Pizza Fina,Presunto,M,33.90
+66,Pizza Fina,Presunto,G,37.50
+67,Pizza Fina,Romeu e Julieta,P,27.90
+68,Pizza Fina,Romeu e Julieta,M,33.90
+69,Pizza Fina,Romeu e Julieta,G,37.50
+70,Pizza Fina,Atum,P,27.90
+71,Pizza Fina,Atum,M,33.90
+72,Pizza Fina,Atum,G,37.50
+73,Pizza Fina,Palmito,P,27.90
+74,Pizza Fina,Palmito,M,33.90
+75,Pizza Fina,Palmito,G,37.50
+76,Pizza Fina,Marguerita,P,27.90
+77,Pizza Fina,Marguerita,M,33.90
+78,Pizza Fina,Marguerita,G,37.50
+79,Veneza Pizzaria,Provolone,P,18.99
+80,Veneza Pizzaria,Provolone,M,24.99
+81,Veneza Pizzaria,Provolone,G,28.99
+82,Veneza Pizzaria,Marguerita,P,18.99
+83,Veneza Pizzaria,Marguerita,M,24.99
+84,Veneza Pizzaria,Marguerita,G,26.99
+226,Fone Pizza Express,Quatro Queijos,G,57.00
+225,Fone Pizza Express,Quatro Queijos,M,50.00
+224,Fone Pizza Express,Quatro Queijos,P,45.00
+223,Fone Pizza Express,Frango Catupiry,G,57.00
+222,Fone Pizza Express,Frango Catupiry,M,50.00
+221,Fone Pizza Express,Frango Catupiry,P,45.00
+220,Fone Pizza Express,Calabresa,G,50.00
+219,Fone Pizza Express,Calabresa,M,44.00
+218,Fone Pizza Express,Calabresa,P,39.00
+217,Lasca de Pizza,Marguerita,G,53.00
+216,Lasca de Pizza,Marguerita,P,43.00
+215,Lasca de Pizza,Mussarela,G,53.00
+214,Lasca de Pizza,Mussarela,P,43.00
+213,Lasca de Pizza,Chocolate,G,53.00
+212,Lasca de Pizza,Chocolate,P,43.00
+211,Lasca de Pizza,Portuguesa,G,53.00
+210,Lasca de Pizza,Portuguesa,P,43.00
+209,Lasca de Pizza,Quatro Queijos,G,53.00
+208,Lasca de Pizza,Quatro Queijos,P,43.00
+207,Lasca de Pizza,Frango Catupiry,G,53.00
+206,Lasca de Pizza,Frango Catupiry,P,43.00
+205,Lasca de Pizza,Calabresa,G,53.00
+203,Lasca de Pizza,Marguerita,G,53.00
+124,Esparmegio,Calabresa,P,46.00
+125,Esparmegio,Calabresa,G,56.00
+126,Esparmegio,Frango Catupiry,P,46.00
+127,Esparmegio,Frango Catupiry,G,56.00
+128,Esparmegio,Quatro Queijos,P,46.00
+129,Esparmegio,Quatro Queijos,G,56.00
+130,Esparmegio,Portuguesa,P,46.00
+131,Esparmegio,Portuguesa,G,56.00
+132,Esparmegio,Mussarela,P,45.00
+133,Esparmegio,Mussarela,G,56.00
+134,Esparmegio,Presunto,P,37.00
+135,Esparmegio,Presunto,G,49.00
+136,Esparmegio,Cartola,P,45.00
+137,Esparmegio,Cartola,G,55.00
+138,Esparmegio,Atum,P,46.00
+139,Esparmegio,Atum,G,58.00
+140,Esparmegio,Palmito,P,46.00
+141,Esparmegio,Palmito,G,56.00
+142,Esparmegio,Marguerita,P,45.00
+143,Esparmegio,Marguerita,G,56.00
+144,Pizzaria Forno a Lenha,Calabresa,G,49.99
+145,Pizzaria Forno a Lenha,Frango Catupiry,G,57.99
+146,Pizzaria Forno a Lenha,Portuguesa,G,48.99
+147,Pizzaria Forno a Lenha,Chocolate,G,49.99
+148,Pizzaria Forno a Lenha,Mussarela,G,49.99
+149,Pizzaria Forno a Lenha,Presunto,G,48.99
+150,Pizzaria Forno a Lenha,Romeu e Julieta,G,49.99
+151,Pizzaria Forno a Lenha,Atum,G,48.99
+152,Pizzaria Forno a Lenha,Frango,G,47.99
+153,Pizzaria Forno a Lenha,Marguerita,G,48.99
+154,Forno 83,Calabresa,G,47.00
+155,Forno 83,Frango Catupiry,G,44.99
+156,Forno 83,Quatro Queijos,G,48.00
+157,Forno 83,Portuguesa,G,48.00
+158,Forno 83,Chocolate,G,50.00
+159,Forno 83,Mussarela,G,46.00
+160,Forno 83,Nordestina,G,48.00
+161,Forno 83,Marguerita,G,47.00
+239,Fone Pizza Express,Frango Catupiry,P,45.00
+238,Fone Pizza Express,Calabresa,G,50.00
+237,Fone Pizza Express,Calabresa,M,44.00
+236,Fone Pizza Express,Calabresa,P,39.90
+235,Fone Pizza Express,Quatro Queijos,G,57.00
+234,Fone Pizza Express,Quatro Queijos,M,50.00
+233,Fone Pizza Express,Quatro Queijos,P,45.00
+232,Fone Pizza Express,Frango Catupiry,G,57.00
+231,Fone Pizza Express,Frango Catupiry,M,50.00
+230,Fone Pizza Express,Frango Catupiry,P,45.00
+229,Fone Pizza Express,Calabresa,G,50.00
+228,Fone Pizza Express,Calabresa,M,44.00
+227,Fone Pizza Express,Calabresa,P,39.90
+202,Lasca de Pizza,Marguerita,P,43.00
+201,Lasca de Pizza,Mussarela,G,53.00
+200,Lasca de Pizza,Mussarela,P,43.00
+199,Lasca de Pizza,Chocolate,G,53.00
+198,Lasca de Pizza,Chocolate,P,43.00
+197,Lasca de Pizza,Portuguesa,G,53.00
+196,Lasca de Pizza,Portuguesa,P,43.00
+195,Lasca de Pizza,Quatro Queijos,G,53.00
+194,Lasca de Pizza,Quatro Queijos,P,43.00
+193,Lasca de Pizza,Frango Catupiry,G,53.00
+192,Lasca de Pizza,Frango Catupiry,P,43.00
+191,Lasca de Pizza,Calabresa,G,53.00
+204,Lasca de Pizza,Calabresa,P,43.00
+240,Fone Pizza Express,Frango Catupiry,M,50.00
+241,Fone Pizza Express,Frango Catupiry,G,57.00
+242,Fone Pizza Express,Quatro Queijos,P,45.00
+243,Fone Pizza Express,Quatro Queijos,M,50.00
+244,Fone Pizza Express,Quatro Queijos,G,57.00
+245,Fone Pizza Express,Portuguesa,P,39.90
+246,Fone Pizza Express,Portuguesa,M,44.00
+247,Fone Pizza Express,Portuguesa,G,50.00
+248,Fone Pizza Express,Camarão Cheddar,P,45.00
+249,Fone Pizza Express,Camarão Cheddar,M,50.00
+250,Fone Pizza Express,Camarão Cheddar,G,57.00
+251,Fone Pizza Express,Chocolate,P,45.00
+252,Fone Pizza Express,Mussarela,P,39.90
+253,Fone Pizza Express,Mussarela,M,44.00
+254,Fone Pizza Express,Mussarela,G,50.00
+255,Fone Pizza Express,Presunto,P,39.90
+256,Fone Pizza Express,Presunto,M,44.00
+257,Fone Pizza Express,Presunto,G,50.00
+258,Fone Pizza Express,Atum,P,39.90
+259,Fone Pizza Express,Atum,M,44.00
+260,Fone Pizza Express,Atum,G,50.00
+261,Fone Pizza Express,Marguerita,P,39.90
+262,Fone Pizza Express,Marguerita,M,44.00
+263,Fone Pizza Express,Marguerita,G,50.00
+264,King Pizza,Calabresa,G,55.99
+265,King Pizza,Frango Catupiry,G,55.99
+266,King Pizza,Portuguesa,G,55.99
+267,King Pizza,Chocolate,G,59.99
+268,King Pizza,Mussarela,G,55.99
+269,King Pizza,Marguerita,G,55.99
+270,Parmegianno,Calabresa,M,33.90
+271,Parmegianno,Calabresa,G,37.50
+272,Parmegianno,Frango Catupiry,M,33.90
+273,Parmegianno,Frango Catupiry,G,37.50
+274,Parmegianno,Quatro Queijos,M,33.90
+275,Parmegianno,Quatro Queijos,G,37.50
+276,Parmegianno,Portuguesa,M,33.90
+277,Parmegianno,Portuguesa,G,37.50
+294,Buongustaio Tambaú,Quatro Queijos,M,39.00
+293,Buongustaio Tambaú,Frango Catupiry,G,51.00
+292,Buongustaio Tambaú,Frango Catupiry,M,37.00
+282,Parmegianno,Mussarela,M,33.90
+283,Parmegianno,Mussarela,G,37.50
+284,Parmegianno,Presunto,M,33.90
+285,Parmegianno,Presunto,G,37.50
+291,Buongustaio Tambaú,Calabresa,G,51.00
+290,Buongustaio Tambaú,Calabresa,M,37.00
+288,Parmegianno,Marguerita,M,33.90
+289,Parmegianno,Marguerita,G,37.50
+295,Buongustaio Tambaú,Quatro Queijos,G,51.00
+296,Buongustaio Tambaú,Portuguesa,M,37.00
+297,Buongustaio Tambaú,Portuguesa,G,51.00
+298,Buongustaio Tambaú,Camarão Cheddar,M,41.00
+299,Buongustaio Tambaú,Camarão Cheddar,G,55.00
+300,Buongustaio Tambaú,Chocolate,M,35.00
+301,Buongustaio Tambaú,Chocolate,G,49.00
+302,Buongustaio Tambaú,Mussarela,M,35.00
+303,Buongustaio Tambaú,Mussarela,G,49.00
+304,Buongustaio Tambaú,Cartola,M,35.00
+305,Buongustaio Tambaú,Cartola,G,49.00
+306,Buongustaio Tambaú,Palmito,M,39.00
+307,Buongustaio Tambaú,Palmito,G,53.00
+308,Buongustaio Tambaú,Marguerita,M,39.00
+309,Buongustaio Tambaú,Marguerita,G,49.00
